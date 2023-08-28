@@ -1,0 +1,13 @@
+/* Seus estilos personalizados aqui, se necessário */
+
+/* Mantém o footer preso ao final da página */
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Estilos para o identificador de arrastar */
+.drag-handle {
+    cursor: move;
+}
